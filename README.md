@@ -51,8 +51,7 @@ Software Engineer @ Capgemini | ServiceNow Developer | Java Backend Developer
 
 Spring Boot + PostgreSQL based Employee Leave & Attendance Management System.
 
-Features:
-
+**Features**
 - Employee Management
 - Attendance Tracking
 - Leave Management
@@ -76,12 +75,11 @@ Enterprise Asset Tracking System built using:
 
 AI-powered chatbot that can answer questions from PDF documents.
 
-Tech Used:
-
+**Tech Stack**
 - Python
 - LangChain
 - Pinecone
-- OpenAI APIs
+- OpenAI
 
 ---
 
@@ -99,11 +97,8 @@ Secure Voting Application using:
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=trideepsaha&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trideepsaha&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=trideepsaha&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trideepsaha&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -111,9 +106,7 @@ Secure Voting Application using:
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=trideepsaha&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=trideepsaha&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
@@ -122,7 +115,7 @@ Secure Voting Application using:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/trideep-s-721972253/">
+<a href="https://www.linkedin.com/in/trideep-s-721972253/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -134,6 +127,14 @@ Secure Voting Application using:
 
 ---
 
+## 📈 Profile Views
+
 <p align="center">
-⭐ If you like my projects, consider starring them.
+<img src="https://komarev.com/ghpvc/?username=trideepsaha&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
